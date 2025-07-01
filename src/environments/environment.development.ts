@@ -4,6 +4,6 @@ export const environment = {
   companySecName:'App',
   companySlogan:'Maneja tus gifs favoritos',
   //GiphyApiKey
-  giphyApiKey:'3z7X0PkdDAA1LlQSEcLiC4ry4kjLIFQQ',
+  giphyApiKey:'FUCK',
   giphyEndpoint:'https://api.giphy.com/v1'
 };
